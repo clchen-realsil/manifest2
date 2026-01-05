@@ -13,7 +13,7 @@ manifest:
 
   # Please add items below based on alphabetical order
   projects:
-    - name: ameba-rtos.git
+    - name: ameba-rtos
       path: sdk
       repo-path: Ameba-AIoT/ameba-rtos
       revision: master
