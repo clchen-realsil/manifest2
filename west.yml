@@ -23,11 +23,11 @@ manifest:
       revision: master
     - name: lvgl-8.3
       path: sdk/component/ui/LVGL/lvgl-8.3/lvgl
-      repo-path: lvgl/lvgl
+      repo-path: Ameba-AIoT/lvgl
       revision: release/v8.3
     - name: lvgl-9.3
       path: sdk/component/ui/LVGL/lvgl-9.3/lvgl
-      repo-path: lvgl/lvgl
+      repo-path: Ameba-AIoT/lvgl
       revision: release/v9.3
 
   self:
